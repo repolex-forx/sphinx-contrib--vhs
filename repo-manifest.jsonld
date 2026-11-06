@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/vhs/commit/5cc9b2666488329f462a1c7b3e62b4239ccfc6a4",
       "git:hexsha": "5cc9b2666488329f462a1c7b3e62b4239ccfc6a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/vhs/commit/8cc59362ebbd17780d71fd2ea1bb215d95b1418d",
